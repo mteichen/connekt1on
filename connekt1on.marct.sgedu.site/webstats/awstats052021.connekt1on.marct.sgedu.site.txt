@@ -1,0 +1,636 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202105 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.connekt1on.marct.sgedu.site.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2706                
+POS_VISITOR 8866                
+POS_DAY 11121               
+POS_DOMAIN 3619                
+POS_LOGIN 3919                
+POS_ROBOT 4102                
+POS_WORMS 4414                
+POS_EMAILSENDER 4545                
+POS_EMAILRECEIVER 4688                
+POS_SESSION 11962               
+POS_SIDER 12171               
+POS_FILETYPES 4823                
+POS_DOWNLOADS 5180                
+POS_OS 5297                
+POS_BROWSER 5502                
+POS_SCREENSIZE 6153                
+POS_UNKNOWNREFERER 6227                
+POS_UNKNOWNREFERERBROWSER 6451                
+POS_ORIGIN 6567                
+POS_SEREFERRALS 6709                
+POS_PAGEREFS 6894                
+POS_SEARCHWORDS 7042                
+POS_KEYWORDS 7194                
+POS_MISC 2370                
+POS_ERRORS 7253                
+POS_CLUSTER 3775                
+POS_SIDER_404 7467                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210601004518 37510 13520819 20942045907437
+FirstTime 20210501010728
+LastTime 20210531223548
+LastUpdate 20210601043127 37510 32407 747 1 4354
+TotalVisits 155                 
+TotalUnique 54                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 8 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1055 1287 15079711 200 200 759923
+1 1285 2101 23265861 152 153 445324
+2 861 1209 12284393 163 163 82032
+3 1050 1249 6584514 85 85 89639
+4 1282 2295 20914950 144 145 276949
+5 1956 2417 19031372 201 201 329955
+6 770 1041 8113406 85 85 334453
+7 261 312 2210395 44 44 52022
+8 62 62 66714 41 42 158788
+9 53 59 50104 10 10 98
+10 49 49 175233 24 24 19834
+11 49 49 150031 21 21 16902
+12 34 34 149804 66 66 15929
+13 44 103 1035707 47 49 53589
+14 287 618 6110226 40 41 20967
+15 673 1089 12077246 126 126 65271
+16 1328 1514 11959080 185 185 197577
+17 993 1606 16579743 137 137 63787
+18 306 509 5886565 51 51 28181
+19 222 432 6567491 94 99 908021
+20 1781 5606 130959408 253 258 295792
+21 1300 2900 38919819 169 171 434635
+22 1261 2554 98820066 258 261 1268932
+23 745 1288 14981782 128 153 213272
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 17692 30309 450886933
+at 7 7 749
+unknown 3 62 895708
+de 2 2 174
+ru 2 2 10
+tr 1 1 2611
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+user 1 1 199 20210525012302
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+wordpress 826 1759565 20210531223548 0
+Discordbot/ 9 263090 20210525204650 0
+no_user_agent 5 342437 20210519083235 0
+custo 4 157549 20210518190857 0
+unknown 1 133 20210520193131 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 3608 14469784 0 0
+png 595 9145420 0 0
+ttf 4 124656 0 0
+env 1 107 0 0
+wpress 2 129584622 0 0
+woff 93 5318140 0 0
+woff2 138 21250624 0 0
+php 12440 110270757 0 0
+html 3224 34490470 0 0
+js 7979 93133646 0 0
+jpg 161 31041639 0 0
+Unknown 1805 641219 0 0
+gif 134 1019173 0 0
+svg 199 1108492 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/front-end-pm/assets/audio/plucky.mp3 0 14 187436
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 120 11
+winlong 1 1
+macosx11 1 1
+ios_iphone 1 1
+linux 62 3
+win7 1 1
+macosx 2231 555
+win8.1 1 1
+win10 27964 17118
+Unknown 15 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+opera75.0.3969.267 468 263
+chrome90.0.4430.93 8355 5242
+chrome90.0.4430.85 821 142
+chrome88.0.4324.150 7 1
+opera75.0.3969.279 1072 730
+chrome89.0.4389.128 32 3
+safari10.0 60 1
+safari14.0.2 977 385
+safari9.1.2 1 1
+chrome90.0.4430.210 86 7
+chrome60.0.3112.113 1 1
+chrome42.0.2311.90 1 1
+chrome90.0.4430.212 17541 10600
+mozilla 8 8
+chrome89.0.4389.82 18 1
+chrome89.0.4389.114 181 6
+chrome76.0.3809.71 30 2
+chrome89.0.4389.90 219 9
+safari8.0 1 1
+safari11.0.1 1 1
+opera75.0.3969.259 417 238
+chrome84.0.4147.105 1 1
+msie9.0 1 1
+firefox79.0 48 48
+Unknown 7 7
+chrome90.0.4430.91 36 6
+chrome83.0.4103.116 7 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20210501133032
+Go-http-client/1.1 20210501235356
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20210501235356
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 354 363
+From1 0 0
+From2 9 9
+From3 0 0
+From4 17344 30025
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_hk 1 1
+www_google_com 8 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+403 175 108346
+206 2 98690
+400 11 225233
+401 5 690
+302 1070 2199439
+499 67 0
+444 2 0
+405 4 212
+500 33 447682
+404 93 472639
+301 455 56167
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 21
+/ 3 -
+/login/[colibri_custom_logo_url] 1 https://connekt1on.marct.sgedu.site/login/
+/job_test_plugin 1 -
+/[colibri_custom_logo_url] 5 https://connekt1on.marct.sgedu.site/
+/mybookmarks/www.google.com 1 https://connekt1on.marct.sgedu.site/mybookmarks/
+/register 3 https://connekt1on.marct.sgedu.site/
+/wp-config.tmp 1 http://connekt1on.marct.sgedu.site/wp-config.tmp
+/wp-config.copy 1 http://connekt1on.marct.sgedu.site/wp-config.copy
+/wp-config.back 1 http://connekt1on.marct.sgedu.site/wp-config.back
+/login/action_page.php 3 http://connekt1on.marct.sgedu.site/login/
+/wp-logout.php 1 -
+/job-test-plugin 1 -
+/users 1 -
+/wp-admin/admin-ajax.php 56 https://connekt1on.marct.sgedu.site/wp-admin/customize.php
+/jobs-2/freelance/ 2 https://connekt1on.marct.sgedu.site/wp-admin/edit-tags.php
+/wp-content/plugins/kaswara/front/assets/js/script.js 1 -
+/wp-config.old 1 http://connekt1on.marct.sgedu.site/wp-config.old
+/register/ 7 https://connekt1on.marct.sgedu.site/enter/
+/category 1 -
+/wp-config.backup 1 http://connekt1on.marct.sgedu.site/wp-config.backup
+/user/testcompany/jobs-dashboard 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+67.173.188.118 14389 20701 211572000 20210531212355
+99.67.195.75 1185 1816 9301940 20210531212307
+99.111.62.209 1073 3641 175170953 20210531223548
+24.148.12.31 381 903 8531141 20210527140320
+73.75.117.180 181 854 11295101 20210525211520
+73.75.109.123 142 821 10554919 20210525210939
+67.175.158.54 91 271 3503573 20210510205727
+67.167.223.86 84 218 1939074 20210521020117
+172.58.140.174 46 141 1730534 20210526224919
+24.148.3.113 13 43 866432 20210506200635
+185.250.46.179 1 1 5 20210527193117
+216.99.127.196 1 7 46582 20210511095615
+35.233.222.21 8 8 341292 20210526035656
+45.67.96.197 1 60 852302 20210501133549
+193.202.86.247 1 1 43038 20210527193053
+63.88.73.138 1 18 513925 20210504043601
+18.116.86.117 1 1 87 20210501133032
+24.155.92.68 3 95 1071065 20210511050803
+67.218.93.135 3 75 972601 20210520201717
+216.21.170.8 2 30 826364 20210506012124
+63.117.14.70 2 88 1024482 20210520202324
+35.233.181.45 2 2 84662 20210515113123
+46.161.57.19 1 1 2611 20210527193105
+208.110.85.67 1 1 11855 20210526131647
+174.208.232.244 6 82 1044146 20210524060619
+67.218.93.5 1 18 513911 20210506234848
+65.79.192.5 1 7 46596 20210504022844
+18.184.114.154 2 2 174 20210501133032
+34.221.255.206 2 2 174 20210501133032
+64.78.149.164 2 2 174 20210501133032
+34.82.53.232 6 6 232900 20210527062352
+75.102.255.118 4 76 1357182 20210503210404
+35.230.88.5 2 2 84662 20210517135124
+174.209.34.222 6 36 881563 20210505193126
+212.193.0.245 1 1 5 20210527193123
+34.82.227.53 8 8 336668 20210529104829
+70.42.131.189 2 30 826200 20210504152531
+3.142.122.14 1 1 87 20210501133025
+23.228.129.10 1 58 808217 20210503210428
+216.93.235.198 1 18 513911 20210520205836
+35.227.136.209 2 2 86034 20210530123732
+63.117.215.72 3 75 972679 20210515235539
+64.222.84.196 1 58 846846 20210501173712
+35.197.25.29 10 10 393058 20210524041125
+69.147.192.197 1 18 513916 20210511021513
+45.148.127.228 1 1 368 20210527193122
+35.247.65.9 2 2 62204 20210509114203
+109.70.100.51 7 7 749 20210501235356
+64.4.226.164 2 30 826670 20210505223540
+34.82.4.161 6 6 255486 20210531072344
+107.77.210.70 7 7 357 20210512092742
+68.39.58.17 3 32 833100 20210508202718
+35.203.152.33 2 2 80830 20210522034324
+18.132.192.7 1 1 10780 20210520193130
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210501 34 221 3344219 10
+20210503 1228 2563 43994129 6
+20210504 2227 2607 29091794 5
+20210505 718 1145 15090033 8
+20210506 403 634 7520946 9
+20210507 2 3 10177 1
+20210508 7 36 854377 2
+20210509 4 4 124408 2
+20210510 661 1698 22034090 7
+20210511 95 327 3242112 11
+20210512 43 121 401191 6
+20210513 1480 2458 23668379 6
+20210514 2 2 84662 1
+20210515 51 284 3811788 3
+20210516 57 228 2591665 3
+20210517 203 714 8947943 3
+20210518 3 3 84750 2
+20210519 109 339 69013127 3
+20210520 471 1603 82229563 9
+20210521 2040 2986 28432796 4
+20210522 2 2 80830 1
+20210523 5 5 81160 2
+20210524 590 945 7491310 4
+20210525 3856 5875 51358496 12
+20210526 1805 3291 31584362 13
+20210527 1263 1480 8186089 11
+20210528 2 2 86034 1
+20210529 23 23 91995 3
+20210530 73 74 521384 2
+20210531 250 710 7919812 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 32
+5mn-15mn 19
+15mn-30mn 8
+30s-2mn 1
+0s-30s 72
+2mn-5mn 5
+30mn-1h 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 227
+/wp-admin/admin-ajax.php 8367 3723590 37 55
+/wp-admin/admin.php 1178 19639098 0 0
+/ 816 10250598 77 41
+/wp-admin/edit.php 559 10167805 0 0
+/wp-json/front-end-pm/v1/notification 526 58252 2 4
+/wp-admin/post.php 434 26171067 0 0
+/user/testcandidate/ 350 3865717 0 0
+/user/testcompany/ 273 2862994 0 1
+/wp-login.php 236 519259 19 17
+/register/ 220 2462696 3 2
+/account/test/ 1 7127 0 0
+/.well-known/acme-challenge/kIvEP6B5xGyHWtKMNuvJ-nkiO3b-RcvEANdEZBiHqKE 4 348 1 4
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-regular-400.woff2 1 13584 0 0
+/wp-admin/post-new.php 45 2918208 0 0
+/wp-json/wp/v2/jb-job/504 1 403 0 0
+/v2/_catalog 1 107 0 1
+/wp-json/wp/v2/jb-job/494 1 402 0 0
+/wp-admin/index.php 24 470948 0 0
+/wp-admin/users.php 198 2817380 0 0
+/wp-json/wp-site-health/v1/tests/authorization-header 1 199 0 0
+/password-reset/ 7 79697 0 0
+/wp-json/front-end-pm/v1/notification/dismiss 2 40 0 0
+/wp-json/elementor/v1/globals 27 5522 0 0
+/info 1 107 0 0
+/wp-content/plugins/front-end-pm/ 1 5 1 1
+/skills/ 2 23551 0 0
+/api/v1/pods 1 107 0 0
+/wp-json/wp/v2/block-renderer/core/latest-comments 4 1968 0 0
+/wp-json/wp/v2/pages/499 5 3912 0 0
+/wp-json/wp/v2/job-listings/722 1 594 0 0
+/wp-admin/user-new.php 26 339202 0 0
+/wp-json/contact-form-7/v1/contact-forms/211/refill 6 36 0 1
+/user/amikhail/ 1 11778 0 0
+/wp-json/wp/v2/jb-job/599 1 402 0 0
+/wp-json/wp/v2/pages/170 33 27280 0 1
+/wp-json/wp/v2/pages/486/autosaves 1 602 0 0
+/wp-json/wp/v2/job-listings/740 3 1872 0 0
+/wp-json/wp/v2/block-directory/search 2 705 0 0
+/wp-content/themes/twentytwenty/ 1 368 1 1
+/job/entry-level/ 1 9842 0 0
+/wp-json/wp/v2/pages/243 1 547 0 0
+/register 4 58863 0 0
+/wp-json/wp/v2/media/22 2 2435 0 0
+/wp-admin/about.php 23 356652 0 0
+/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/font/servmask.woff 3 19332 0 0
+/wp-admin/term.php 4 40642 0 0
+/wp-json/wp/v2/posts 2 1480 0 0
+/wp-json/wp/v2/taxonomies/job_listing_type 7 4193 0 0
+/wp-json/wp/v2/block-renderer/core/archives 1 119 0 0
+/wp-admin/import.php 2 22779 0 0
+/wp-admin/load-scripts.php 162 4338106 0 0
+/wp-json/wp/v2/jb-job-category 6 36 0 0
+/jobs-dashboard/ 54 549547 0 0
+/wp-json/wp/v2/posts/721 1 472 0 0
+/wp-admin/customize.php 87 5001340 0 0
+/wp-json/wp/v2/pages/400 15 17475 0 0
+/account/general/ 3 29063 0 0
+/wp-json/wp/v2/users 6 5531 1 1
+/wp-json/wp/v2/pages/169/autosaves 2 1416 0 0
+/wp-json/wp/v2/job-listings/737 1 475 0 0
+/author/mteichen/ 1 11579 0 0
+/wp-json/wp/v2/pages/168/autosaves 2 1065 0 0
+/wp-json/wp/v2/job-listings/673 1 459 0 0
+/wp-json/wp/v2/pages 151 32280 0 0
+/wp-json/wp/v2/taxonomies/jb-job-category 5 3120 0 0
+/wp-admin/theme-install.php 7 110505 0 0
+/wp-json/wp/v2/pages/670 4 4220 0 0
+/user/khansa1717/ 3 28841 0 0
+/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff2 6 23472 0 1
+/wp-json/wp/v2/block-renderer/core/tag-cloud 4 444 0 0
+/wp-json/front-end-pm/v1/view-message/1 2 704 0 0
+/wp-json/wp/v2/jb-job/403 1 402 0 0
+/wp-content/plugins/jobboardwp/assets/common/libs/fontawesome/fonts/fa-solid-900.woff2 4 317856 0 0
+/.well-known/acme-challenge/M4hsmasgLNGNrzlCvGjItHVoX0d-NXUE2FCDZLAJJ30 4 348 4 1
+/wp-json/wp/v2/users/me 213 53094 0 0
+/wp-admin/plugin-install.php 97 1766711 0 0
+/wp-content/plugins/jobboardwp/assets/common/libs/fontawesome/fonts/fa-regular-400.woff2 4 54352 0 0
+/wp-json/front-end-pm/v1/users/autosuggestion/ 14 618 0 0
+/job-dashboard/ 2 22803 0 0
+/wp-json/wp/v2/job-listings/739 1 474 0 0
+/members/ 93 1069496 0 0
+/user/mteichengmail-com/ 1 7503 0 0
+/wp-json/wp/v2/pages/600 1 420 0 0
+/wp-json/wp/v2/pages/174 7 4289 0 0
+/wp-json/colibri/v1/menus 18 216 0 0
+/wp-json/wp/v2/pages/255 26 25112 0 0
+/wp-json/wp/v2/pages/168 14 8600 0 0
+/wp-admin/profile.php 46 704658 0 0
+/account/privacy/ 5 50046 0 0
+/wp-json/wp/v2/pages/172 6 7213 0 0
+/wp-admin/update.php 2 16886 0 0
+/wp-json/wp/v2/jb-job/506/autosaves 1 210 0 0
+/wp-content/plugins/simple-link-directory/assets/css/fonts/slick.woff 1 1380 0 0
+/jobs-2/ 61 654939 0 0
+/wp-json/wp/v2/job-listings/720 1 453 0 0
+/user/rfatima/ 2 23521 0 1
+/jobs-test-plugin/ 43 563667 0 0
+/wp-json/wp/v2/pages/402 9 9889 0 0
+/wp-json/contact-form-7/v1/contact-forms 160 13342 0 0
+/wp-admin/site-health.php 1 13292 0 0
+/wp-json/wp/v2/pages/234 1 545 0 0
+/wp-json/wp/v2/pages/207 1 421 0 0
+/user/testcandidate1/ 6 61395 0 0
+/wp-json/wp/v2/users/ 186 84074 0 0
+/wp-admin/options-discussion.php 9 113321 0 0
+/wp-admin/themes.php 87 1365110 0 0
+/wp-admin/options-general.php 41 817335 0 0
+/wp-admin/options-privacy.php 5 57508 0 0
+/user/test/ 33 313577 0 0
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 68 15224656 0 9
+/account/ 45 480745 0 0
+/wp-json/wp/v2/jb-job/502 1 402 0 0
+/wp-admin/load-styles.php 194 17797968 0 0
+/wp-json/wp/v2/pages/171/autosaves 1 1404 0 0
+/wp-json/wp/v2/posts/1 3 2103 0 0
+/logout/ 7 99128 0 0
+/user/democapny/ 12 145923 0 0
+/wp-json/front-end-pm/v1/pagination/viewmessage/1/inbox 1 329 0 0
+/feed/ 2 2187 0 0
+/wp-json/wp/v2/pages/245 1 425 0 0
+/user/mteichen/ 33 437746 0 0
+/wp-json/wp/v2/pages/640/autosaves 1 2345 0 0
+/wp-json/wp/v2/posts/230 3 1588 0 0
+/wp-json/wp/v2/jb-job/503 1 402 0 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-solid-900.woff2 1 75392 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 15 282360 0 0
+/wp-admin/tools.php 16 162611 0 0
+/job/connekt1on-chicago-full-time-part-time-entry-level/ 12 157735 0 0
+/wp-admin/ 121 2560488 5 0
+/wp-content/ai1wm-backups/connekt1on.marct.sgedu.site-20210519-223743-14aq3f.wpress 1 64832298 0 0
+/comments/feed/ 1 758 0 0
+/wp-json/wp/v2/pages/34 7 6587 0 0
+/.git/config 1 107 0 0
+/wp-json/wp/v2/taxonomies/jb-job-type 5 3120 0 0
+/um-download/462/resume/21/db34d7717a 1 5 0 0
+/wp-json/forminator/v1/preview/forms/ 3 1927 0 0
+/wp-json/wp-site-health/v1/tests/dotorg-communication 1 203 0 0
+/wp-admin/user-edit.php 30 468194 0 0
+/wp-json/contact-form-7/v1/contact-forms/211/feedback 30 5770 0 2
+/wp-admin/plugins.php 211 3826999 0 0
+/user/demo/ 5 59646 0 0
+/wp-json/wp/v2/pages/483/autosaves 9 4482 0 0
+/wp-json/wp-site-health/v1/tests/loopback-requests 1 177 0 0
+/wp-json/ 213 1484263 0 0
+/wp-json/wp/v2/block-renderer/core/rss 2 572 0 0
+/wp-content/plugins/ultimate-member/assets/font/ionicons.woff 36 2450160 0 2
+/wp-content/plugins/wp-job-manager/assets/dist/font/job-manager-434425afc81b621e0e02b871e4f5fca1.woff 12 108144 0 0
+/company-directory/ 77 864561 0 0
+/wp-json/wp/v2/categories 12 3235 0 0
+/wp-json/wp/v2/jb-job/505 1 402 0 0
+/wp-admin/widgets.php 8 283281 0 0
+/wp-admin/nav-menus.php 70 1414851 0 0
+/wp-json/wp/v2/jb-job/506 3 1464 0 0
+/wp-content/plugins/ 1 5 1 1
+/wp-json/wp/v2/posts/222 1 472 0 0
+/wp-json/wp/v2/pages/172/autosaves 1 3815 0 0
+/wp-json/wp/v2/pages/640 15 37719 0 0
+/wp-json/front-end-pm/v1/view-message/6 2 708 0 0
+/insert/ 24 204043 0 0
+/login/ 181 2204900 2 5
+/wp-json/wp/v2/posts/385 1 479 0 0
+/wp-json/wp/v2/posts/393 1 475 0 0
+/wp-admin/upload.php 8 184968 0 0
+/wp-json/wp/v2/pages/3 1 1878 0 0
+/wp-content/plugins/fakerpress/src/resources/font/fakerpress.ttf 3 79920 0 0
+/wp-json/wp/v2/block-renderer/core/calendar 4 1732 0 0
+/wp-json/wp/v2/pages/483 8 7599 0 0
+/wp-json/wp/v2/pages/239 1 425 0 0
+/job/awerferatgwsrtg/ 2 16688 0 0
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.ttf 1 44736 0 0
+/wp-json/wp/v2/pages/173/autosaves 1 3829 0 0
+/wp-json/contact-form-7/v1/contact-forms/201/feedback 2 430 0 0
+/wp-json/front-end-pm/v1/view-message/3 3 1083 0 0
+/wp-admin/options-reading.php 9 103651 0 0
+/front-end-pm/ 7 87469 0 0
+/wp-json/front-end-pm/v1/view-message/5 4 1422 0 0
+/wp-admin/plugin-editor.php 145 2527678 0 0
+/wp-json/wp/v2/pages/400/autosaves 1 1527 0 0
+/wp-json/wp/v2/pages/670/autosaves 1 1052 0 0
+/wp-json/wp/v2/pages/255/autosaves 1 706 0 0
+/wp-json/wp/v2/pages/170/autosaves 7 3514 0 0
+/job/test-job/ 2 17468 0 0
+/mybookmarks/ 53 588355 0 0
+/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.woff 25 2450600 0 0
+/wp-admin/theme-editor.php 34 1023830 0 0
+/.env 1 107 0 0
+/account/jobboardwp/ 1 10442 0 0
+/wp-json/wp/v2/pages/34/autosaves 2 1464 0 0
+/wp-admin/edit-tags.php 25 332047 0 0
+/enter/ 83 709616 1 1
+/desired-skills/ 4 47444 0 0
+/wp-json/wp/v2/pages/169 26 22306 0 0
+/hello-world/ 4 49710 0 0
+/wp-admin/options-permalink.php 7 86115 0 0
+/user/ 1 14815 0 0
+/wp-json/wp/v2/pages/486 6 5263 0 0
+/wp-json/wp/v2/jb-job-type 6 702 0 0
+/wp-json/wp/v2/job-types 7 665 0 0
+/wp-admin/options-writing.php 11 125085 0 0
+/wp-admin/options-media.php 4 42444 0 0
+/wp-json/wp/v2/pages/171 22 41970 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 48 4120320 0 2
+/wp-content/themes/teluro/resources/fonts/vendor/element-icons.woff 1 6164 0 0
+/job-post/ 60 871509 0 0
+/wp-json/contact-form-7/v1/contact-forms/211 35 38407 0 0
+/wp-json/wp/v2/pages/401 12 25256 0 0
+/wp-content/ai1wm-backups/connekt1on.marct.sgedu.site-20210520-201546-et4jju.wpress 1 64752324 0 0
+/account/fep-um/ 1 10911 0 0
+/wp-json/front-end-pm/v1/view-message/2 3 1146 0 0
+/graphql 1 107 0 0
+/wp-json/wp/v2/pages/238 1 424 0 0
+/wp-json/wp/v2/pages/173 10 20908 0 0
+/wp-json/wp/v2/blocks 213 1413 0 0
+/category/uncategorized/ 5 49927 0 0
+/user/sameer/ 14 137388 0 0
+/jm-ajax/get_listings/ 61 30361 0 0
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 6 1420992 0 0
+/wp-json/wp/v2/pages/664 2 1231 0 0
+/wp-json/wp/v2/taxonomies 7 7098 0 0
+/wp-json/wp/v2/taxonomies/post_tag 8 4704 0 0
+/wp-admin/edit-comments.php 17 270570 0 0
+/author/sameerk/ 2 18936 0 0
+/job/demo-inc-chicago-full-time-part-time-entry-level-web-dev/ 5 61370 0 0
+/wp-json/wp/v2/job-listings/738 1 474 0 0
+/wp-json/wp/v2/job-listings/726 1 474 0 0
+/category/jobs/ 2 18964 0 0
+/wp-admin/update-core.php 11 129063 0 0
+END_SIDER

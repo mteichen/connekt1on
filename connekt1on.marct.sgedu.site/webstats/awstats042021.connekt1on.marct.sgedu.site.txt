@@ -1,0 +1,334 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.connekt1on.marct.sgedu.site.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2699                
+POS_VISITOR 3467                
+POS_DAY 3705                
+POS_DOMAIN 3859                
+POS_LOGIN 4092                
+POS_ROBOT 4247                
+POS_WORMS 4454                
+POS_EMAILSENDER 4585                
+POS_EMAILRECEIVER 4728                
+POS_SESSION 4804                
+POS_SIDER 4966                
+POS_FILETYPES 8209                
+POS_DOWNLOADS 8506                
+POS_OS 8554                
+POS_BROWSER 8664                
+POS_SCREENSIZE 8791                
+POS_UNKNOWNREFERER 8865                
+POS_UNKNOWNREFERERBROWSER 8952                
+POS_ORIGIN 9034                
+POS_SEREFERRALS 9172                
+POS_PAGEREFS 9316                
+POS_SEARCHWORDS 9464                
+POS_KEYWORDS 9616                
+POS_MISC 2363                
+POS_ERRORS 9675                
+POS_CLUSTER 3948                
+POS_SIDER_404 9840                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210501003240 3450 1182462 22337743307016
+FirstTime 20210430024903
+LastTime 20210430193351
+LastUpdate 20210501043323 3450 0 2562 0 887
+TotalVisits 5                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 4 10 475496 8 9 21642
+3 176 433 7069533 21 25 53972
+4 362 567 16977126 15 15 126342
+5 441 657 14130634 64 69 581906
+6 3 66 1234160 1 1 11
+7 0 0 0 0 0 0
+8 0 0 0 1 1 11
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 1 1 11
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 2 2 10954
+17 298 372 8131851 45 45 378647
+18 193 222 3897284 28 28 432
+19 30 30 296922 8 8 1313
+20 0 0 0 1 1 11
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+67.173.188.118 1503 2353 52143574 20210430193351
+74.125.210.43 2 2 34716 20210430033944
+74.125.210.47 1 1 17358 20210430033943
+74.125.210.45 1 1 17358 20210430024903
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20210430 1507 2357 52213006 5
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 1507 2357 52213006
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+wordpress 70 130581 20210430203439 0
+Discordbot/ 4 234942 20210430054614 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+1h+ 2
+0s-30s 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 74
+/wp-admin/admin-ajax.php 638 782578 0 0
+/ 196 3663806 4 3
+/wp-admin/admin.php 66 2650351 0 0
+/wp-admin/edit.php 65 1251854 0 0
+/wp-admin/customize.php 37 3005510 0 0
+/register/ 34 1065905 0 1
+/wp-admin/themes.php 32 492836 0 0
+/wp-admin/post.php 30 2842129 0 0
+/wp-json/colibri/v1/menus 26 858 0 0
+/wp-admin/load-styles.php 25 2666424 0 0
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 1 223892 0 0
+/account/ 1 100056 0 0
+/wp-json/siteground-optimizer/v1/fetch-options 1 1293 0 0
+/register-2/ 10 456984 0 0
+/wp-admin/post-new.php 5 472364 0 0
+/wp-json/wp/v2/pages/11 3 1807 0 0
+/wp-admin/index.php 9 154169 1 0
+/wp-json/wp/v2/pages/15/autosaves 9 6135 0 0
+/wp-admin/users.php 10 156027 0 0
+/password-reset/ 1 22284 0 0
+/wp-admin/async-upload.php 6 3694 0 0
+/user/mteichen/ 1 24260 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 3 56472 0 0
+/wp-admin/ 12 309455 0 0
+/wp-json/wp/v2/pages/34 4 2353 0 0
+/comments/feed/ 2 1794 0 0
+/wp-content/themes/teluro/resources/fonts/vendor/element-icons.woff 2 12328 0 0
+/wp-admin/user-new.php 6 87616 0 0
+/wp-admin/plugins.php 23 408532 0 0
+/wp-json/wp/v2/pages/170 7 4474 0 0
+/wp-json/ 24 283551 0 0
+/wp-json/wp/v2/block-directory/search 4 1671 0 0
+/wp-content/themes/bravada/resources/fonts/blocks.woff 1 58936 0 0
+/wp-content/plugins/ultimate-member/assets/font/ionicons.woff 1 68060 0 0
+/wp-json/wp/v2/pages/14 1 501 0 0
+/wp-admin/widgets.php 2 92055 0 0
+/wp-admin/about.php 4 72154 0 0
+/wp-json/wp/v2/media/22 1 1427 0 0
+/wp-admin/nav-menus.php 2 31560 0 0
+/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.ttf 2 97848 0 0
+/wp-admin/load-scripts.php 20 864927 0 0
+/login/ 17 456781 0 1
+/wp-admin/upload.php 3 84434 0 0
+/wp-login.php 19 53215 0 0
+/wp-content/plugins/fakerpress/src/resources/font/fakerpress.ttf 1 26640 0 0
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.ttf 2 89472 0 0
+/wp-json/wp/v2/pages 12 1335 0 0
+/wp-content/themes/bravada/resources/fonts/iconmeta.ttf 1 51956 0 0
+/wp-json/wp/v2/pages/27 1 503 0 0
+/wp-admin/options-reading.php 1 13786 0 0
+/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.woff 1 98024 0 0
+/wp-json/wp/v2/pages/15 1 502 0 0
+/wp-admin/theme-editor.php 2 130254 0 0
+/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff2 1 3912 0 0
+/wp-json/wp/v2/pages/34/autosaves 1 460 0 0
+/wp-json/wp/v2/users/me 24 6840 0 0
+/wp-admin/plugin-install.php 11 257884 0 0
+/wp-json/wp/v2/pages/141 2 1144 0 0
+/wp-json/wp/v2/pages/169 4 2767 0 0
+/hello-world/ 13 107767 0 0
+/members/ 1 23047 0 0
+/wp-admin/options-writing.php 1 13406 0 0
+/wp-admin/profile.php 7 119819 0 0
+/wp-json/wp/v2/media 6 5225 0 0
+/wp-admin/update.php 1 7386 0 0
+/wp-json/wp/v2/pages/27/autosaves 1 437 0 0
+/wp-json/wp/v2/blocks 24 792 0 0
+/wp-json/siteground-wizard/v1/update-visibility/ 1 47 0 0
+/wp-json/wp/v2/taxonomies/post_tag 2 1364 0 0
+/wp-json/wp/v2/users/ 11 3157 0 0
+/wp-admin/options-discussion.php 1 14990 0 0
+/wp-admin/options-general.php 5 111180 0 0
+/wp-json/wp/v2/media/10 1 1003 0 0
+/wp-admin/options-privacy.php 1 13330 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 178 1851918 0 0
+png 104 4120484 0 0
+ttf 6 265916 0 0
+woff 8 293820 0 0
+woff2 2 227804 0 0
+php 1032 16854464 0 0
+html 324 6518894 0 0
+jpg 50 5862198 0 0
+js 493 16004985 0 0
+Unknown 135 42891 0 0
+svg 16 141513 0 0
+gif 9 28119 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx 4 4
+linuxandroid 66 3
+win10 2287 1500
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+chrome90.0.4430.93 2287 1500
+chrome88.0.4324.175 4 4
+chrome90.0.4430.91 66 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 30 30
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1477 2327
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 1 1260
+302 58 478683
+499 20 0
+405 2 106
+400 3 176
+500 7 17947
+301 2 10
+404 34 303961
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/ 1 http://connekt1on.marct.sgedu.site/wp-admin/customize.php
+/wp-admin/admin-ajax.php 22 http://connekt1on.marct.sgedu.site/wp-admin/customize.php
+/register/[colibri_custom_logo_url] 1 http://connekt1on.marct.sgedu.site/register/
+/[colibri_custom_logo_url] 7 http://connekt1on.marct.sgedu.site/
+/2021/04/30/hello-world/ 2 http://connekt1on.marct.sgedu.site/2021/04/30/hello-world/
+/wp-admin/[colibri_custom_logo_url] 1 http://connekt1on.marct.sgedu.site/wp-admin/
+END_SIDER_404

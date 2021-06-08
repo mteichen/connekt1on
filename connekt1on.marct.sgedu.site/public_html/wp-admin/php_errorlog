@@ -1,0 +1,79 @@
+[20-May-2021 21:09:23 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:09:23 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:09:24 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:11:16 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:11:17 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:11:17 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:12:05 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:12:06 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:12:06 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[20-May-2021 21:17:00 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 98
+[20-May-2021 21:17:01 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 98
+[20-May-2021 21:17:01 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 98
+[20-May-2021 21:19:11 UTC] PHP Parse error:  syntax error, unexpected 'Title' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 103
+[20-May-2021 21:19:12 UTC] PHP Parse error:  syntax error, unexpected 'Title' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 103
+[20-May-2021 21:19:12 UTC] PHP Parse error:  syntax error, unexpected 'Title' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 103
+[24-May-2021 04:27:12 UTC] PHP Warning:  preg_match(): Compilation failed: number too big in {} quantifier at offset 31 in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/ultimate-member/includes/core/class-member-directory.php on line 1481
+[24-May-2021 04:27:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 's' 
+        OR 
+        mt4.meta_value LIKE '%s%' 
+        OR 
+        mt4.me' at line 15 for query SELECT DISTINCT SQL_CALC_FOUND_ROWS ptk_users.ID FROM ptk_users LEFT JOIN ptk_usermeta ON ( ptk_users.ID = ptk_usermeta.user_id )  LEFT JOIN ptk_usermeta AS mt1 ON ( ptk_users.ID = mt1.user_id )  LEFT JOIN ptk_usermeta AS mt2 ON ( ptk_users.ID = mt2.user_id )  LEFT JOIN ptk_usermeta AS mt3 ON (ptk_users.ID = mt3.user_id AND mt3.meta_key = 'full_name' )  LEFT JOIN ptk_usermeta AS mt4 ON ( ptk_users.ID = mt4.user_id )  LEFT JOIN ptk_usermeta AS mt5 ON ( ptk_users.ID = mt5.user_id ) WHERE 1=1 AND ( 
+  ( 
+    ( 
+      ( ptk_usermeta.meta_key = 'um_member_directory_data' AND ptk_usermeta.meta_value LIKE '%s:14:\"account\\_status\";s:8:\"approved\";%' ) 
+      AND 
+      ( mt1.meta_key = 'um_member_directory_data' AND mt1.meta_value LIKE '%s:15:\"hide\\_in\\_members\";b:0;%' ) 
+      AND 
+      ( 
+        mt2.meta_key = 'full_name' 
+        OR 
+        mt3.user_id IS NULL
+      ) 
+      AND 
+      ( 
+        mt4user_login LIKE '%s%' OR user_url LIKE '%s%' OR display_name LIKE '%s%' OR user_email LIKE '%s%' OR user_nicename LIKE '%s%' OR .meta_value = 's' 
+        OR 
+        mt4.meta_value LIKE '%s%' 
+        OR 
+        mt4.meta_value LIKE '%s:1:\"s\";%'
+      )
+    ) 
+    AND 
+    ( 
+      ( 
+        ( mt5.meta_key = 'ptk_capabilities' AND mt5.meta_value LIKE '%\"um\\_candidate\"%' )
+      )
+    )
+  )
+) ORDER BY CAST(mt2.meta_value AS CHAR) ASC, display_name ASC LIMIT 0, 10 made by do_action('wp_ajax_um_get_members'), WP_Hook->do_action, WP_Hook->apply_filters, um\core\Member_Directory->ajax_get_members, WP_User_Query->__construct, WP_User_Query->query
+[25-May-2021 17:08:09 UTC] PHP Warning:  rmdir(/home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/uploads/front-end-pm): Directory not empty in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/front-end-pm/uninstall.php on line 47
+[26-May-2021 00:05:34 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[26-May-2021 00:05:47 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[26-May-2021 00:06:03 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[26-May-2021 00:06:15 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[26-May-2021 00:11:26 UTC] PHP Parse error:  syntax error, unexpected ''Company Name'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[26-May-2021 00:11:43 UTC] PHP Parse error:  syntax error, unexpected '"Company Name"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 97
+[26-May-2021 00:16:02 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/plugins/jobs list reader plugin/my_adapter_plug_reader.php on line 98
+[27-May-2021 05:25:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 875
+[31-May-2021 21:13:04 UTC] PHP Fatal error:  Cannot redeclare custom_culture_skills_list_dropdown() (previously declared in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php:832) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 886
+[01-Jun-2021 17:28:05 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 918
+[01-Jun-2021 17:29:32 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 918
+[01-Jun-2021 17:31:10 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 918
+[03-Jun-2021 01:23:50 UTC] PHP Fatal error:  Cannot redeclare frontend_add_original_skills_field() (previously declared in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php:911) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 933
+[03-Jun-2021 02:46:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1040
+[03-Jun-2021 02:47:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1042
+[03-Jun-2021 02:47:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1042
+[03-Jun-2021 02:48:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1042
+[03-Jun-2021 02:48:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1042
+[03-Jun-2021 02:48:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1042
+[03-Jun-2021 02:48:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1042
+[03-Jun-2021 02:48:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1042
+[03-Jun-2021 03:34:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1015
+[03-Jun-2021 03:38:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1014
+[03-Jun-2021 03:40:04 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1015
+[03-Jun-2021 03:44:26 UTC] PHP Parse error:  syntax error, unexpected '' ) . '' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/connekt1on.marct.sgedu.site/public_html/wp-content/themes/twentytwenty/functions.php on line 1014
+[07-Jun-2021 05:05:32 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''address' varchar(255) NOT NULL' at line 1 for query ALTER TABLE ptk_cbxwpbookmark ADD COLUMN 'address' varchar(255) NOT NULL made by activate_plugin, do_action('activate_cbxwpbookmark/cbxwpbookmark.php'), WP_Hook->do_action, WP_Hook->apply_filters, activate_cbxwpbookmark, CBXWPBookmark_Activator::activate, CBXWPBookmarkHelper::create_tables, dbDelta
+[07-Jun-2021 05:05:32 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''title' varchar(60) NOT NULL' at line 1 for query ALTER TABLE ptk_cbxwpbookmark ADD COLUMN 'title' varchar(60) NOT NULL made by activate_plugin, do_action('activate_cbxwpbookmark/cbxwpbookmark.php'), WP_Hook->do_action, WP_Hook->apply_filters, activate_cbxwpbookmark, CBXWPBookmark_Activator::activate, CBXWPBookmarkHelper::create_tables, dbDelta
+[07-Jun-2021 05:05:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''address' varchar(255) NOT NULL' at line 1 for query ALTER TABLE ptk_cbxwpbookmark ADD COLUMN 'address' varchar(255) NOT NULL made by activate_plugin, do_action('activate_cbxwpbookmark/cbxwpbookmark.php'), WP_Hook->do_action, WP_Hook->apply_filters, activate_cbxwpbookmark, CBXWPBookmark_Activator::activate, CBXWPBookmarkHelper::create_tables, dbDelta
+[07-Jun-2021 05:05:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''title' varchar(60) NOT NULL' at line 1 for query ALTER TABLE ptk_cbxwpbookmark ADD COLUMN 'title' varchar(60) NOT NULL made by activate_plugin, do_action('activate_cbxwpbookmark/cbxwpbookmark.php'), WP_Hook->do_action, WP_Hook->apply_filters, activate_cbxwpbookmark, CBXWPBookmark_Activator::activate, CBXWPBookmarkHelper::create_tables, dbDelta

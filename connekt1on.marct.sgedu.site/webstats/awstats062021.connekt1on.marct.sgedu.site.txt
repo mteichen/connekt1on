@@ -1,0 +1,474 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.connekt1on.marct.sgedu.site.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2682                
+POS_VISITOR 6997                
+POS_DAY 7737                
+POS_DOMAIN 3513                
+POS_LOGIN 3748                
+POS_ROBOT 3903                
+POS_WORMS 4114                
+POS_EMAILSENDER 4245                
+POS_EMAILRECEIVER 4388                
+POS_SESSION 8016                
+POS_SIDER 8213                
+POS_FILETYPES 4523                
+POS_DOWNLOADS 4853                
+POS_OS 4972                
+POS_BROWSER 5100                
+POS_SCREENSIZE 5375                
+POS_UNKNOWNREFERER 5449                
+POS_UNKNOWNREFERERBROWSER 5536                
+POS_ORIGIN 5618                
+POS_SEREFERRALS 5759                
+POS_PAGEREFS 5944                
+POS_SEARCHWORDS 6092                
+POS_KEYWORDS 6244                
+POS_MISC 2345                
+POS_ERRORS 6303                
+POS_CLUSTER 3604                
+POS_SIDER_404 6475                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210608041817 45787 16638217 0
+FirstTime 0
+LastTime 20210608041817
+LastUpdate 20210608042712 45787 37060 3453 1 5273
+TotalVisits 47                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 13 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 861 1618 16053707 101 102 206940
+1 796 1531 16505592 105 106 783119
+2 375 412 1120637 207 207 1678821
+3 602 1137 9383577 176 176 1097270
+4 819 1019 13938983 109 113 198142
+5 505 626 4636946 52 53 700254
+6 699 812 7708674 81 81 212784
+7 14 14 87188 6 6 346
+8 45 45 4905 9 9 1005
+9 47 47 90939 12 12 9858
+10 47 47 90515 7 7 357
+11 47 47 93709 21 21 30212
+12 48 48 5118 10 10 1016
+13 59 133 989896 8 8 368
+14 308 460 5970087 22 31 749
+15 208 322 3666095 22 26 19758
+16 199 415 5213412 18 18 10622
+17 369 564 4283254 57 57 560133
+18 237 376 3208756 16 16 225
+19 49 49 5172 4 4 44
+20 554 1784 22619672 77 78 20644
+21 681 1138 11867166 86 90 25222
+22 224 473 6743812 32 32 528
+23 576 727 6081453 43 45 66175
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 8369 13844 138869615
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+wordpress 451 4908811 20210608041017 0
+no_user_agent 2 139153 20210603050616 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 1434 4566153 0 0
+png 401 5010023 0 0
+woff 62 3125896 0 0
+woff2 43 7220512 0 0
+php 4397 44055033 0 0
+map 57 21742 0 0
+html 1888 20286626 0 0
+jpg 627 23695128 0 0
+js 2834 27736408 0 0
+jpeg 38 214021 0 0
+Unknown 1922 425221 0 0
+gif 60 556159 0 0
+svg 81 457043 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/front-end-pm/assets/audio/plucky.mp3 0 193 1499650
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx 1985 1083
+linuxandroid 168 21
+win10 11883 7264
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+chrome90.0.4430.93 73 2
+safari14.0.2 1148 677
+chrome42.0.2311.90 1 1
+chrome90.0.4430.212 1691 850
+opera75.0.3969.282 18 1
+chrome91.0.4472.77 8657 5505
+firefox79.0 14 14
+chrome90.0.4430.210 168 21
+opera75.0.3969.279 2267 1298
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 154 162
+From1 0 0
+From2 2 2
+From3 0 0
+From4 8213 13873
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_hk 1 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 247 18990
+400 1 1
+401 3 414
+302 415 65539
+499 17 0
+500 10 412729
+404 26 66274
+301 123 12681
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/wp-admin/admin-ajax.php 20 https://connekt1on.marct.sgedu.site/wp-admin/customize.php
+/wp-content/plugins/elementor/assets/mask-shapes/custom.svg 4 https://connekt1on.marct.sgedu.site/job-post/
+/mybookmarks/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+67.173.188.118 4634 6670 66074086 20210608033126 20210608002902 /
+99.67.195.75 1574 2651 18894296 20210607044638
+24.148.12.31 1080 1910 18987534 20210608002315
+99.111.62.209 724 1747 22087349 20210608010716
+73.75.117.180 263 662 7758690 20210604235148
+67.175.158.54 69 180 2020307 20210608041817 20210608002315 /wp-json/front-end-pm/v1/notification
+34.83.84.109 6 6 261096 20210606061930
+174.208.234.31 6 55 1056708 20210605184423
+35.230.88.5 4 4 177608 20210605112626
+34.82.227.53 4 4 171490 20210607075156
+71.239.80.243 1 72 405067 20210605185128
+64.222.212.198 2 73 965310 20210608002354
+69.197.185.132 1 1 107 20210601193522
+75.102.234.54 1 2 9967 20210607200821
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20210601 134 255 2340286 4
+20210602 696 1341 17371903 8
+20210603 3612 5669 48663192 9
+20210604 1030 1474 14626713 8
+20210605 672 1303 16004789 5
+20210606 3 3 98799 2
+20210607 1875 2929 33403499 6
+20210608 347 870 7860084 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 13
+5mn-15mn 6
+30s-2mn 1
+0s-30s 16
+15mn-30mn 3
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 186
+/wp-admin/admin-ajax.php 3340 3541341 12 18
+/wp-json/front-end-pm/v1/notification 1231 134671 1 2
+/ 269 3509540 23 15
+/jm-ajax/get_listings/ 262 182018 0 0
+/wp-admin/post.php 225 17020096 1 0
+/wp-admin/edit.php 154 2809691 0 0
+/jobs-2/ 136 1861626 0 0
+/wp-json/wp/v2/users/me 128 31722 0 0
+/wp-json/ 128 910720 0 0
+/wp-json/wp/v2/blocks 128 768 0 0
+/wp-json/wp/v2/job-listings/837/autosaves 1 213 0 0
+/job/senior-java-software-engineer-contact-engineering/ 6 77011 0 0
+/wp-admin/post-new.php 24 1837025 0 0
+/job/computer-support-specialist/ 13 163831 0 0
+/wp-admin/index.php 8 182900 0 0
+/user/atest1/ 5 56943 0 0
+/wp-admin/users.php 101 1628898 0 1
+/user/amazon/ 3 48235 0 0
+/wp-json/wp/v2/job-listings/1058 10 6332 0 0
+/wp-json/elementor/v1/globals 48 12144 0 0
+/wp-admin/async-upload.php 21 12518 0 0
+/wp-json/wp/v2/job-listings/828 1 473 0 0
+/wp-json/wp/v2/pages/499 1 1592 0 0
+/wp-admin/user-new.php 14 196761 0 0
+/user/amikhail/ 1 13505 0 0
+/wp-json/wp/v2/job-listings/740 1 624 0 0
+/wp-json/wp/v2/pages/170 7 5224 0 0
+/job/connekt1on-full-time-test-job/ 15 185230 0 0
+/wp-json/wp/v2/media/1063 1 957 0 0
+/wp-json/wp/v2/job-listings/854/autosaves 2 500 0 0
+/wp-admin/about.php 17 285747 0 0
+/wp-json/wp/v2/taxonomies/job_listing_type 63 37737 0 0
+/job/software-developer/ 2 20572 0 0
+/wp-json/wp/v2/job-listings/838 5 3137 0 0
+/user/bertramgilfoyle/ 3 35214 0 0
+/wp-admin/load-scripts.php 54 1481146 0 0
+/wp-json/wp/v2/media/833 1 758 0 0
+/job/full-stack-net-developer/ 11 144016 0 0
+/wp-json/wp/v2/media/849 1 1074 0 0
+/jobs-dashboard/ 79 1161267 0 0
+/wp-json/wp/v2/pages/400 1 1378 0 0
+/wp-admin/customize.php 43 2544396 0 0
+/wp-login.php 53 123402 5 7
+/wp-content/plugins/cbxwpbookmark/assets/css/cbxwpbookmark-block.css.map 1 110 0 0
+/wp-json/wp/v2/job-listings/1055 7 4528 0 0
+/job/globe-tech-full-time-software-engineer/ 27 337783 0 0
+/wp-json/wp/v2/pages/168/autosaves 3 1603 0 0
+/wp-json/wp/v2/media/860 2 1826 0 0
+/wp-json/wp/v2/pages 43 10316 0 0
+/wp-json/wp/v2/job-listings/1061 1 476 0 0
+/wp-json/wp/v2/job-listings/857/autosaves 1 226 0 0
+/user/dineshchugtai/ 3 34938 0 0
+/user/apple/ 11 132492 0 0
+/wp-json/wp/v2/job-listings/825 1 473 0 0
+/user/john+thomas/ 3 34907 0 0
+/user/jian-yang/ 4 46251 0 0
+/job/software-engineer/ 2 21123 0 0
+/wp-json/wp/v2/media/855 1 968 0 0
+/job/business-analyst-uber-direct/ 6 86412 0 0
+/wp-json/wp/v2/job-listings/848 4 2499 0 0
+/wp-json/wp/v2/job-listings/844 5 3114 0 0
+/wp-admin/plugin-install.php 3 54202 0 0
+/wp-json/wp/v2/job-listings/830 1 473 0 0
+/user/att/ 6 76726 0 0
+/wp-json/wp/v2/media/1066 2 1852 0 0
+/wp-json/wp/v2/media/839 2 1732 0 0
+/members/ 81 1244770 0 0
+/wp-json/wp/v2/media/1059 3 2592 0 0
+/wp-json/wp/v2/pages/255 4 4049 0 0
+/wp-admin/profile.php 7 117588 0 0
+/wp-json/wp/v2/pages/168 13 9102 0 0
+/wp-admin/update.php 1 8357 0 0
+/wp-json/wp/v2/job-listings/851 3 1906 0 0
+/jobs-test-plugin/ 2 24139 1 0
+/user/neo/ 4 47925 0 0
+/wp-json/wp/v2/pages/402 4 3991 0 0
+/user/nelsonbig+headbighetti/ 3 35123 0 0
+/wp-json/wp/v2/media/1056 2 2325 0 0
+/wp-json/wp/v2/users/ 101 58983 0 0
+/wp-admin/themes.php 14 226398 0 0
+/job/information-analyst/ 2 35069 0 0
+/wp-admin/options-general.php 2 41103 0 0
+/wp-json/wp/v2/job-listings/838/autosaves 1 216 0 0
+/wp-json/wp/v2/job-listings/845/autosaves 1 214 0 0
+/user/test/ 29 332952 0 0
+/user/testcandidate/ 37 449026 0 0
+/wp-json/wp/v2/job-listings/844/autosaves 1 206 0 0
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 25 5373408 1 1
+/user/sameerk/ 3 39665 0 0
+/account/ 3 33627 0 0
+/wp-json/wp/v2/job-listings/857 7 4340 0 0
+/wp-json/wp/v2/pages/171/autosaves 1 2404 0 0
+/wp-admin/load-styles.php 66 6606796 0 0
+/job/database-administrator/ 6 85165 0 0
+/user/facebook/ 4 48126 0 0
+/wp-json/wp/v2/media/858 1 840 0 0
+/user/mteichen/ 29 433925 0 0
+/wp-content/plugins/cbxwpbookmark/assets/css/cbxwpbookmark-elementor.css.map 4 728 0 0
+/user/sameerkhan0115/ 8 90512 0 0
+/wp-json/wp/v2/job-listings/832/autosaves 1 211 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 10 188240 0 0
+/wp-admin/tools.php 2 22677 0 0
+/job/connekt1on-chicago-full-time-part-time-entry-level/ 1 14819 0 0
+/user/auser1/ 5 58114 0 0
+/wp-json/wp/v2/job-listings/1062/autosaves 1 224 0 0
+/job/royalty-analyst/ 17 305501 0 0
+/wp-admin/ 40 910592 2 0
+/wp-json/wp/v2/job-listings/841 1 473 0 0
+/user/testcompany/ 8 93010 0 0
+/wp-admin/user-edit.php 54 925398 0 0
+/user/google/ 1 16056 0 0
+/wp-json/wp/v2/media/842 2 1722 0 0
+/wp-admin/plugins.php 32 806033 0 0
+/user/demo/ 3 39488 0 0
+/wp-json/wp/v2/job-listings/832 6 3534 0 0
+/wp-json/wp/v2/job-listings/854 7 4174 0 0
+/wp-json/wp/v2/media/1074 1 878 0 0
+/wp-content/plugins/ultimate-member/assets/font/ionicons.woff 18 1225080 0 0
+/wp-content/plugins/wp-job-manager/assets/dist/font/job-manager-434425afc81b621e0e02b871e4f5fca1.woff 17 144192 0 0
+/wp-json/wp/v2/job-listings/799 1 473 0 0
+/company-directory/ 65 1027354 0 0
+/wp-json/wp/v2/job-listings/845 5 3063 0 0
+/user/peterparker/ 3 35052 0 0
+/wp-json/wp/v2/media/834 1 880 0 0
+/job/connekt1on-full-time-asdfea/ 5 60376 0 0
+/wp-admin/nav-menus.php 5 111068 0 0
+/job/senior-software-engineer-web/ 6 76681 0 0
+/user/a+normal+user/ 3 33282 0 0
+/wp-json/wp/v2/job-listings/769 2 1154 0 0
+/wp-json/wp/v2/job-listings/1073/autosaves 1 229 0 0
+/wp-json/wp/v2/pages/640 3 5214 0 0
+/job/systems-software-engineer/ 1 11040 0 0
+/wp-json/wp/v2/job-listings/1054 1 481 0 0
+/insert/ 90 939214 0 0
+/wp-json/wp/v2/job-listings/848/autosaves 1 223 0 0
+/wp-admin/upload.php 4 96151 0 0
+/wp-json/wp/v2/job-listings/837 7 4467 0 0
+/wp-json/wp/v2/media/846 1 807 0 0
+/user/test1/ 6 68328 0 0
+/user/tonystark/ 4 46250 0 0
+/wp-admin/plugin-editor.php 54 1079351 0 0
+/wp-json/wp/v2/job-listings/1062 4 2473 0 0
+/wp-json/wp/v2/pages/400/autosaves 1 1202 0 0
+/wp-json/wp/v2/job-listings/1065/autosaves 3 721 0 0
+/wp-json/wp/v2/job-listings/831 4 2416 0 0
+/job/web-developer/ 1 12773 0 0
+/mybookmarks/ 72 988838 0 0
+/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.woff 17 1568384 0 0
+/wp-admin/admin.php 49 816899 0 0
+/wp-json/wp/v2/job-listings/1058/autosaves 1 221 0 0
+/insert 1 19703 0 0
+/user/bbadel/ 2 27693 0 0
+/wp-admin/theme-editor.php 47 1434454 0 0
+/user/sameerkhan/ 3 32689 0 0
+/user/mboffa/ 18 295045 0 0
+/enter/ 84 730266 1 0
+/wp-json/wp/v2/job-listings/1073 7 4659 0 0
+/wp-json/wp/v2/job-listings/851/autosaves 1 212 0 0
+/wp-json/wp/v2/job-listings/831/autosaves 1 207 0 0
+/wp-json/wp/v2/job-listings/758 2 1421 0 0
+/wp-json/wp/v2/pages/169 1 835 0 0
+/wp-json/wp/v2/job-types 67 6365 0 0
+/wp-json/wp/v2/pages/171 9 24731 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 16 1373440 0 0
+/wp-content/plugins/cbxwpbookmark/assets/css/cbxwpbookmark-customizer.css.map 52 20904 0 0
+/job-post/ 110 1913686 0 0
+/wp-json/wp/v2/pages/401 3 7916 0 0
+/wp-json/wp/v2/job-listings/1055/autosaves 2 470 0 0
+/wp-json/wp/v2/pages/173 1 3202 0 0
+/user/sameer/ 3 62977 0 0
+/wp-json/wp/v2/pages/401/autosaves 1 2541 0 0
+/wp-json/wp/v2/job-listings/826 3 1613 0 0
+/user/erlichbachman/ 6 73207 0 0
+/user/samsung+electronics/ 1 16143 0 0
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 2 473664 0 0
+/user/a+big+company/ 9 102321 0 0
+/wp-json/wp/v2/pages/664 1 578 0 0
+/wp-json/wp/v2/taxonomies/post_tag 15 8820 0 0
+/wp-admin/edit-comments.php 1 17408 0 0
+/job/demo-inc-chicago-full-time-part-time-entry-level-web-dev/ 8 118407 0 1
+/user/richard+hendricks/ 3 35060 0 0
+/job/data-scientist/ 1 15309 0 0
+/user/verizon+communications/ 2 27688 0 0
+/wp-json/wp/v2/job-listings/1065 7 4267 0 0
+/wp-json/wp/v2/media/852 1 866 0 0
+/wp-admin/update-core.php 2 27229 0 0
+END_SIDER
